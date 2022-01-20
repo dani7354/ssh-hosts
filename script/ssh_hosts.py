@@ -6,7 +6,7 @@ import subprocess
 
 OPTION_EXIT = 0
 CSV_DELIMITER = ";"
-SSH_CMD = "ssh"
+SSH_CMD = "/usr/bin/ssh"
 
 hosts = {}
 
